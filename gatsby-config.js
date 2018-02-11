@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     url: 'https://lumen.netlify.com/',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    title: 'Blog by Jingzhou Luo',
+    subtitle: 'Also go by Joe. Software Engineer, Seahawk Fan, Spicy Foody',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -13,15 +13,11 @@ module.exports = {
       {
         label: 'About me',
         path: '/about/'
-      },
-      {
-        label: 'Contact me',
-        path: '/contact/'
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
+      name: 'Jingzhou Luo',
+      email: 'luojingzhou at gmail',
       telegram: '#',
       twitter: '#',
       github: '#',
