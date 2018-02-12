@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    url: 'https://lumen.netlify.com/',
+    url: 'https://bentotour.com/',
     title: 'Blog by Jingzhou Luo',
     subtitle: 'Also go by Joe. Software Engineer, Seahawk Fan, Spicy Foody',
     copyright: '© All rights reserved.',
@@ -17,9 +17,9 @@ module.exports = {
     ],
     author: {
       name: 'Jingzhou Luo',
-      email: 'luojingzhou at gmail',
-      telegram: '#',
-      twitter: '#',
+      email: 'luojingzhou@gmail',
+      telegram: '@luojingzhou',
+      twitter: '@JingzhouLuo',
       github: '#',
       rss: '#',
       vk: '#'

@@ -1,6 +1,6 @@
 # Jingzhou's blog
 
-Built up on [Gatsby](https://github.com/gatsbyjs/gatsby) and [Lumen] (https://github.com/alxshelepenok/gatsby-starter-lumen).
+Built up on [Gatsby](https://github.com/gatsbyjs/gatsby) and [Lumen](https://github.com/alxshelepenok/gatsby-starter-lumen).
 
 ## Features
 + Lost Grid ([peterramsing/lost](https://github.com/peterramsing/lost)).
