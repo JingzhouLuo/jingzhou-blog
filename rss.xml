@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Jingzhou Luo]]></title><description><![CDATA[Blog by Jingzhou Luo]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Mon, 12 Feb 2018 04:42:15 GMT</lastBuildDate><item><title><![CDATA[博客开篇]]></title><description><![CDATA[自律还需他律，互联网就是最理想的他律约束工具。希望利用这个博客来记录所思所学，也希望能鞭策自己多学多用，不断分析总结。 之前也开过博客，但是技术为主的博客，这是第一次。用Gatsby/React构建，也提供了扩展和定制的机会。共勉！]]></description><link>https://lumen.netlify.com//posts/origin-of-the-blog/</link><guid isPermaLink="false">https://lumen.netlify.com//posts/origin-of-the-blog/</guid><pubDate>Sun, 11 Feb 2018 12:41:00 GMT</pubDate><content:encoded>&lt;p&gt;I agree with one theory that successful individuals are disciplined and have full autonomy. However people usually develop autonomy from heteronomy. For instance when we study with classmates and work with teammates, we are motivated to be a better person from others inspiration and expectation. So I just want to start using this blog to leverage internet’s heteronomy to motivate myself to write more and track learnings, bookings, feelings.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Jingzhou Luo]]></title><description><![CDATA[Blog by Jingzhou Luo]]></description><link>http://github.com/dylang/node-rss</link><generator>RSS for Node</generator><lastBuildDate>Mon, 12 Feb 2018 07:14:19 GMT</lastBuildDate><item><title><![CDATA[自律与他律]]></title><description><![CDATA[自律还需他律，互联网就是最理想的他律约束工具。希望利用这个博客来记录所思所学，也希望能鞭策自己多学多用，不断分析总结。 之前也开过博客，但是技术为主的博客，这是第一次。用Gatsby/React构建，也提供了扩展和定制的机会。共勉！]]></description><link>https://bentotour.com//posts/origin-of-the-blog/</link><guid isPermaLink="false">https://bentotour.com//posts/origin-of-the-blog/</guid><pubDate>Sun, 11 Feb 2018 12:41:00 GMT</pubDate><content:encoded>&lt;p&gt;最近在罗辑思维听到一个很有意思的理论：自律来源于他律。成功的人都拥有极强的自律精神，但是自律来源于哪里，答案是周遭的环境，来源于同班同学，同组同事。身在互联网时代的我们，所有人都成为了监督者，博客自然成为了他律的最好手段。&lt;/br&gt;&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -19,7 +19,7 @@
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
-        alt=&quot;1&quot;
+        alt=&quot;I agree with one theory that successful individuals are disciplined and have full autonomy. However people usually develop autonomy from heteronomy. For instance when we study with classmates and work with teammates, we are motivated to be a better person from others inspiration and expectation. So I just want to start using this blog to leverage internet&apos;s heteronomy to motivate myself to write more and track learnings, bookings, feelings.&quot;
         title=&quot;&quot;
         src=&quot;/static/1-a3057b79175cdcf4a107e8cc2c8f8325-d564d.jpg&quot;
         srcset=&quot;/static/1-a3057b79175cdcf4a107e8cc2c8f8325-865fd.jpg 240w,
@@ -34,5 +34,5 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;自律还需他律，互联网就是最理想的他律约束工具。希望利用这个博客来记录所思所学，也希望能鞭策自己多学多用，不断分析总结。&lt;/br&gt;
+&lt;p&gt;希望利用这个博客来记录所思所学，也希望能鞭策自己多学多用，不断分析总结。&lt;/br&gt;
 之前也开过博客，但是技术为主的博客，这是第一次。用Gatsby/React构建，也提供了扩展和定制的机会。共勉！&lt;/p&gt;</content:encoded></item></channel></rss>

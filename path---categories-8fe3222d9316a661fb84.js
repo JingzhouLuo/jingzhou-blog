@@ -1,0 +1,2 @@
+webpackJsonp([30875753179511],{352:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Blog by Jingzhou Luo",subtitle:"Also go by Joe. Software Engineer, Seahawk Fan, Spicy Foody",copyright:"© All rights reserved.",menu:[{label:"Articles",path:"/"},{label:"About me",path:"/about/"}],author:{name:"Jingzhou Luo",email:"luojingzhou@gmail",telegram:"@luojingzhou",twitter:"@JingzhouLuo",github:"#",rss:"#",vk:"#"}}},allMarkdownRemark:{group:[{fieldValue:"diary",totalCount:1}]}},pathContext:{}}}});
+//# sourceMappingURL=path---categories-8fe3222d9316a661fb84.js.map
