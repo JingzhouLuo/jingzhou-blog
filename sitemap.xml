@@ -6,6 +6,11 @@
 <url> <loc>https://bentotour.com//tags/杂文/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bentotour.com//categories/diary/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bentotour.com//about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bentotour.com//posts/blog-with-gatsbyjs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bentotour.com//tags/frontend/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bentotour.com//tags/gatsbyjs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bentotour.com//tags/react/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://bentotour.com//categories/frontend/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bentotour.com//categories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bentotour.com//</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://bentotour.com//tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
